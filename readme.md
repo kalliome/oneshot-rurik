@@ -1,5 +1,5 @@
 # Rurik
-- Level 1
+- Level 5
 - Mountain Dwarf
 - Barbarian - Path of Wild Magic
 
@@ -125,10 +125,6 @@
 - **Darkvision**
 - **Dwarven Resilience** 
   - You have advantage on saving throws against poison, and you have resistance against poison damage.
-- **Dwarven Combat Training** 
-  - You have proficiency with the .
-- **Tool Proficiency** 
-  - You gain proficiency with the artisan's tools of your choice: 
 - **Stonecunning**
   - Whenever you make an Intelligence (History) check related to the origin of stonework, you are considered proficient in the History skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus.
 - **Languages** Common and Dwarvish
@@ -138,7 +134,7 @@
 
 ## Proficiencies
 - Armor: light armor, medium armor, shields
-- Weapons: simple weapons, martial weapons, battleaxe, handaxe, light hammer, and warhammer
+- Weapons: simple weapons, martial weapons (battleaxe, handaxe, light hammer, and warhammer)
 - Tools: Mason's tools
 - Saving Throws: Strength, Constitution
 - Skills: Athletics, Survival
