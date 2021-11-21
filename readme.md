@@ -51,7 +51,7 @@
 ## Saving throws
 - Strength **+6** (proficient)
 - Dexterity **+1** 
-- Constitution **+5** (proficient)
+- Constitution **+6** (proficient)
 - Intelligence **+0** 
 - Wisdom **+1** 
 - Charisma **-3** 
