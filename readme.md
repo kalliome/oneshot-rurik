@@ -109,7 +109,7 @@
 
 ### Wild Surge
 - The magical energy roiling inside you sometimes erupts from you. When you enter your rage, roll on the Wild Magic table to determine the magical effect produced.
-- If the effect requires a saving throw, the DC equals 8 + your proficiency bonus + your Constitution modifier. **13**
+- If the effect requires a saving throw, the DC equals 8 + your proficiency bonus (+3) + your Constitution modifier  (+3). **14**
 
 #### Wild Magic
 1.	Shadowy tendrils lash around you. Each creature of your choice that you can see within 30 feet of you must succeed on a Constitution saving throw or take 1d12 necrotic damage. You also gain 1d12 temporary hit points.
