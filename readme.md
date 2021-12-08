@@ -30,7 +30,7 @@
 
 ## Stats
 - Proficiency bonus **+3**
-- Passive perception **12**
+- Passive perception **11**
 - Passive investigation **10**
 - Armor class **16** (10+dex+con+shield)
 - Initiative **+1**
