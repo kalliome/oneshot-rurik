@@ -133,7 +133,7 @@
 
 ## Race 
 - **Age** 130
-- **Alignment** Chatic-Good
+- **Alignment** Chaotic-Good
 - **Size** Medium 79kg 130cm
 - **Speed** 25ft Your speed is not reduced by wearing heavy armor.
 - **Darkvision**
